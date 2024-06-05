@@ -1,0 +1,28 @@
+{
+    "name": "Eduquest - Aplikasi Pembelajaran",
+    "short_name": "Eduquest",
+    "start_url": "/imk-v1/",
+    "id": "/imk-v1/",
+    "scope": "/imk-v1/",
+    "display": "standalone",
+    "background_color": "#FFFFFFF",
+    "theme_color": "#FFFFFF",
+    "icons": [
+      {
+        "src": "/imk-v1/assets/icon-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/imk-v1/assets/icon-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "/imk-v1/asset/maskable-icon.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+      }
+    ]
+  }
